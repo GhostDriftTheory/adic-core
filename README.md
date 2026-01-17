@@ -6,7 +6,7 @@
 
 This project provides the formal mathematical proof that underpins the **AI Safety & AI Accountability Project**. It establishes the "ADIC Existence Theorem," reducing the verification of continuous real-valued computations to the existence of discrete, finite certificates (Ledgers).
 
-[**🌐 View Research Paper Demo**](https://ghostdrifttheory.github.io/ghostdrift-adic-demo-JP/)
+[[**🌐 View Research Paper Demo**]](https://ghostdrifttheory.github.io/adic-core/)
 
 ## **📖 Overview**
 
@@ -48,7 +48,7 @@ Source: GhostDrift Mathematical Research Project
 Paper: An Existence Theorem for Constructive Interval Verification Systems  
 Concept: Responsibility Engineering / ADIC Foundation  
 Institution: GhostDrift Mathematical Research Institute (ゴーストドリフト数理研究所)  
-URL: https://ghostdrifttheory.github.io/ghostdrift-adic-demo-JP/
+URL: [https://ghostdrifttheory.github.io/adic-core/](https://ghostdrifttheory.github.io/adic-core/)
 
 ## **🛡️ License & Patent Notice**
 
